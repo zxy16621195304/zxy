@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc3d2e8d-1a17-46b6-83b9-cb6f9a0d13fb" name="Default Changelist" comment="" />
+    <list default="true" id="fc3d2e8d-1a17-46b6-83b9-cb6f9a0d13fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/jtml.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\my-project\myfirstweb\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1jDesJBXeMuFZstHu0AkWmqw7oe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,8 +38,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/gitCode/alarm/alarm-platform-web-feature-num" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
@@ -52,21 +65,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603343294729</updated>
-      <workItem from="1603343296490" duration="3456000" />
+      <workItem from="1603343296490" duration="4274000" />
+      <workItem from="1603775260030" duration="11376000" />
+      <workItem from="1604061406002" duration="568000" />
+      <workItem from="1604278265547" duration="243000" />
+      <workItem from="1604279950391" duration="1636000" />
     </task>
+    <task id="LOCAL-00001" summary="push">
+      <created>1603419507586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603419507587</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1603419472035">
+    <state x="572" y="116" key="CommitChangelistDialog2" timestamp="1603419506974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603419472035" />
+    <state x="572" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603419506974" />
+    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1604280096922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604280096922" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1603357134152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603357134152" />
+    <state x="552" y="244" key="Vcs.Push.Dialog.v2" timestamp="1603419638139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="244" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603419638139" />
   </component>
 </project>
